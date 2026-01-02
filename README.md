@@ -70,8 +70,3 @@ This system was developed for **academic purposes**.
 
 
 
-## ⚙️ Installation
-
-1. Clone the repository
-   bash
-   git clone https://github.com/your-username/calendar-event-management-system.git
