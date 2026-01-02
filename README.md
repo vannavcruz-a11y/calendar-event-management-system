@@ -1,17 +1,3 @@
-# calendar-event-management-system
-BSIT-3C#
-
-# Calendar Event Management System
-
-Alico, Mitch
-Apang, Shella
-Dela Cruz, Hanna Joy 
-Dela Cruz, Vanessa Kaye
-Diyo, Sofia Lorraine 
-Lagdamen, Hannah
-Parangga, Justine Miles
-Magollado, raniel
-
 # 📅 Calendar Event Management System
 
 The **Calendar Event Management System (CEMS)** is a web-based system designed to help the
@@ -70,3 +56,8 @@ This system was developed for **academic purposes**.
 
 
 
+## ⚙️ Installation
+
+1. Clone the repository
+   bash
+   git clone https://github.com/your-username/calendar-event-management-system.git
